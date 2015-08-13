@@ -1,0 +1,18 @@
+PODS:
+  - TwUI (0.5.2):
+    - TwUI/Support (= 0.5.2)
+    - TwUI/UIKit (= 0.5.2)
+  - TwUI/Support (0.5.2)
+  - TwUI/UIKit (0.5.2):
+    - TwUI/Support
+    - TwUI/UIKit/NSColorExtensions (= 0.5.2)
+  - TwUI/UIKit/NSColorExtensions (0.5.2):
+    - TwUI/Support
+
+DEPENDENCIES:
+  - TwUI (~> 0.5)
+
+SPEC CHECKSUMS:
+  TwUI: 5371618d2ec5b8464c34561b198427854f2b0ebe
+
+COCOAPODS: 0.38.2
